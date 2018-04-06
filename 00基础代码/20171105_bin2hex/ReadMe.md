@@ -1,1 +1,15 @@
-## BIN转HEX，生成txt文件
+## BIN2HEX build txt file
+
+浜岃繘鍒禤E鏂囦欢杞崲鎴怘EX锛屼繚瀛樻垚.txt鏂囦欢
+
+### 20171105_bin2hex
+
+binary to hex save file.txt
+
+### 20171111-test
+
+test program
+
+### 20180406_bin2text_text2bin
+
+鐢熸垚鎸囧畾鏍煎紡
