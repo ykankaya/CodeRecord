@@ -1,3 +1,14 @@
+# 修改处
+
+## VS调试mimikatz-改造法国神器mimikatz执行就获取明文密码
+
+https://www.cnblogs.com/17bdw/p/8321622.html
+
+## Mimikatz一键获取远程终端凭据与获取明文密码修改方法
+
+https://www.cnblogs.com/17bdw/p/8450192.html
+
+
 # mimikatz
 
 **`mimikatz`** is a tool I've made to learn `C` and make somes experiments with Windows security.
@@ -129,9 +140,3 @@ This is a **personal** development, please respect its philosophy and don't use 
 
 
 
-# 修改处
-
-VS调试mimikatz-改造法国神器mimikatz执行就获取明文密码
-https://www.cnblogs.com/17bdw/p/8321622.html
-Mimikatz一键获取远程终端凭据与获取明文密码修改方法
-https://www.cnblogs.com/17bdw/p/8450192.html
