@@ -3,11 +3,11 @@ using namespace std;
 
 int main()
 {
-	int a = 6;//Ò»¸öÕûĞÍ±äÁ¿
-	int int_size;//ÕûĞÍ±äÁ¿µÄ×Ö½Ú´óĞ¡
+	int a = 6;//ä¸€ä¸ªæ•´å‹å˜é‡
+	int int_size;//æ•´å‹å˜é‡çš„å­—èŠ‚å¤§å°
 	int_size = sizeof(a);
 
-	cout<<"±äÁ¿aËùÕ¼µÄ×Ö½Ú´óĞ¡Îª£º"<<int_size<<endl;
+	cout<<"å˜é‡aæ‰€å çš„å­—èŠ‚å¤§å°ä¸ºï¼š"<<int_size<<endl;
 
 	return 0;
 }
