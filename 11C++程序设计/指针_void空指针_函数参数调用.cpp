@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 
 
@@ -27,7 +27,7 @@ int main()
 	// 实现任意类型变量减1功能，只实现char型和int型变量的功能操作
 	decrease(&a,sizeof(a));
 	decrease(&b,sizeof(b));
-	cout<<a<<","<<b<<endl;
+	cout<<a<<","<<b<<endl;  //输出结果 c , 101
 
 	return 0;
 }
